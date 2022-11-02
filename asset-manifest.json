@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fe91563.css",
-    "main.js": "/static/js/main.207a5a8f.js",
-    "index.html": "/index.html",
-    "main.2fe91563.css.map": "/static/css/main.2fe91563.css.map",
-    "main.207a5a8f.js.map": "/static/js/main.207a5a8f.js.map"
+    "main.css": "/React-hook-form/static/css/main.2fe91563.css",
+    "main.js": "/React-hook-form/static/js/main.207a5a8f.js",
+    "index.html": "/React-hook-form/index.html",
+    "main.2fe91563.css.map": "/React-hook-form/static/css/main.2fe91563.css.map",
+    "main.207a5a8f.js.map": "/React-hook-form/static/js/main.207a5a8f.js.map"
   },
   "entrypoints": [
     "static/css/main.2fe91563.css",
