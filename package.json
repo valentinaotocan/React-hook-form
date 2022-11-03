@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://valentinaotocan.github.io/React-hook-form",
+  "homepage": "http://valentinaotocan.github.io/react-hook-form",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
