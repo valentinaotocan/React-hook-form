@@ -42,6 +42,15 @@ input:focus {
   padding-top: 6px;
 }
 
+.success-msg {
+  text-align: center;
+  padding-top: 30px;
+}
+
+img {
+  width: 250px;
+}
+
 input[type="submit"] {
   cursor: pointer;
   background-color: #58D68D;

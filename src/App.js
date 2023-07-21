@@ -1,5 +1,6 @@
 import "./App.css";
 import { useForm } from "react-hook-form";
+import Success from "./Success";
 
 function App() {
   const {
@@ -80,7 +81,9 @@ function App() {
           <input type="submit" />
         </form>
       ) : (
-        <div className="success">Form submitted successfully</div>
+        <div className="success">
+          <Success />
+        </div>
       )}
     </div>
   );
